@@ -1,6 +1,9 @@
 # 📊 Superstore Sales Dashboard
 
 ![Dashboard Preview](dashboard.png)
+## 🌐 Live Demo
+
+👉 https://superstore-sales-z.streamlit.app/
 
 An interactive **business intelligence dashboard** built using **Python, Streamlit, and Plotly** to analyze sales, profit, and customer behavior.
 
